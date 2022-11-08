@@ -1,0 +1,7 @@
+private_app_subnet_1_id = "subnet-0114187491425ad85"
+private_app_subnet_2_id = "subnet-040d4f78b45c80b87"
+private_db_subnet_1_id = "subnet-0f452e651fa4c4623"
+private_db_subnet_2_id = "subnet-0c8884ce79b7d18ba"
+public_subnet_1_id = "subnet-06e705eeda6ecf3ba"
+public_subnet_2_id = "subnet-0e982cbaefa9bdf2b"
+vpc_id = "vpc-0776cec224fe1dc9d"
